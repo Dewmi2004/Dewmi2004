@@ -1,7 +1,6 @@
-# Hi there, I'm Dewmi 👋
+# Hi there, ✨🥰✨ I'm Dew 👋
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=00BFFF&lines=✨🥰✨Hay!+I'm+Dew✨🥰✨;Software+Engineering+student;JavaFX+%7C+MySQL+%7C+Layered+Architecture;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=00BFFF&lines=Software+Engineering+student;JavaFX+%7C+MySQL+%7C+Layered+Architecture;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 

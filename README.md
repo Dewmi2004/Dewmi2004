@@ -84,7 +84,7 @@
 ### 🎟️ Smart Event Ticketing System
 > 2nd semester final project — a full-stack ticketing platform with integrated payment gateway for managing events and ticket purchases.
 
-- **Stack:** Java · JavaFX · MySQL · Socket · Full-Stack · Payment Gateway Integration
+- **Stack:** Java · Spring Boot · ORM · Html · css · js · MySQL · Socket · Full-Stack · Payment Gateway Integration
 - **Highlights:** Real-time event management · Ticket booking flow · Secure payment processing · Socket-based communication
 - 🔗 [View Repository](https://github.com/Dewmi2004/Smart_Event_Ticketing_System)
 
